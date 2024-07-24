@@ -1,4 +1,3 @@
-// src/App.js
 import React from 'react';
 import Navbar from './components/NavBar';
 import Herosection from './components/Herosection';
@@ -10,15 +9,14 @@ import EducationalResources from './components/EducationalResources';
 function App() {
   return (
     <div className="App">
-    // aditya ka h
+      { /* Aditya ka h*/}
       <Navbar />
-    // harhu ka h
+      { /* harshu ka h*/}
       <Herosection/>
       <IntroductionSection/>
-  // butki ka h
+      { /* butki ka h*/}
       <ImpactMetrics />
       <EducationalResources />
-
     </div>
   );
 }
