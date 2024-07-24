@@ -9,8 +9,8 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: auto; /* Remove full-width to prevent it from stretching across */
-    max-width: 90%; /* Limit the width to prevent it from touching the right edge */
+    width: 1480px;
+    height: 50px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     z-index: 1000;
   }
