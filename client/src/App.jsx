@@ -1,6 +1,6 @@
 // src/App.js
 import React from 'react';
-import Navbar from './component/NavBar';
+import Navbar from './components/NavBar';
 
 function App() {
   return (
