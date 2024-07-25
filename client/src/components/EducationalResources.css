@@ -1,0 +1,31 @@
+.educational-resources {
+    padding: 20px;
+  }
+  
+  .resources-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .resource-item {
+    margin-bottom: 20px;
+  }
+  
+  .resource-item h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .resource-item p {
+    margin: 5px 0;
+  }
+  
+  .resource-item a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .resource-item a:hover {
+    text-decoration: underline;
+  }
+  
