@@ -12,9 +12,11 @@ const Navbar = () => {
         <li><Link to="/home">Home</Link></li>
         <li><Link to="/challenges">Challenges</Link></li>
         <li><Link to="/events">Events</Link></li>
-        <li><Link to="/resources">Resources</Link></li>
-        <li><Link to="/forum">Community Forum</Link></li>
-        <li><Link to="/impact">Impact Tracking</Link></li>
+        <li><Link to="/resources">Educational Resources</Link></li>
+        {/* <li><Link to="/forum">Community Forum</Link></li> */}
+        <li><Link to="/impact">Impact Metrics</Link></li>
+        <li><Link to="/about">About</Link></li>
+
       </ul>
       <div className="navbar-auth">
         <button className="login-btn">Login</button>
